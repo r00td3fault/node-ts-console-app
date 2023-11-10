@@ -15,3 +15,8 @@ npm run dev:nodemon
 npm run start
 ````
 
+3. Correr test Cases
+````
+npm run test
+````
+
